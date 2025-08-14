@@ -22,9 +22,11 @@ HARDWARE
 •	IR sensor
 •	Transparent glass.
 •	Connecting wires.
+<br>
 SOFTWARE
 •	Arduino.
 •	We have serial.begin library.
+<br>
 <img width="361" height="548" alt="image" src="https://github.com/user-attachments/assets/6b2a6384-c015-421c-8e0c-b1e8fcf38cef" />
 
 ---
