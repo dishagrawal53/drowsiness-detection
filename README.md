@@ -44,6 +44,8 @@ SOFTWARE:
 • Serial.begin() for serial communication <br><br>
 
 <img width="361" height="548" alt="Hardware Setup" src="https://github.com/user-attachments/assets/6b2a6384-c015-421c-8e0c-b1e8fcf38cef" />
+
+---
 ## IMPLEMENTATION
 
 <img width="805" height="626" alt="Block Diagram" src="https://github.com/user-attachments/assets/d799b3f9-4fcd-4818-990c-dc8c2f4eb7ea" /> <br>
